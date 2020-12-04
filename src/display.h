@@ -10,4 +10,4 @@ int display_init();
 int display_process_input(void (*input_func)(char *));
 
 // Used to display a line of text in your chat window.
-void display_line();
+void display_line(char *line);
