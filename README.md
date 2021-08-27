@@ -1,3 +1,3 @@
-# Lab 8
+# Chat Client
 
-http://ecenetworking.byu.edu/493r/labs/lab-8/
+https://ecenetworking.byu.edu/426/labs/chat-client/
